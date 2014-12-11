@@ -11,6 +11,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-pagination
         path: user/plugins/pagination
         branch: develop
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
+        branch: develop
     notepad:
         url: https://github.com/getgrav/grav-theme-notepad
         path: user/themes/notepad
