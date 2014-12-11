@@ -5,6 +5,7 @@ author:
   email: 'karol@rockettheme.com'
 metadata:
     description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+taxonomies: [tag]
 
 # Owner/author information
 owner:
@@ -39,7 +40,7 @@ links:
   - title: Featured Posts
     url: featured
   - title: Categories
-    url: /categories
+    url: categories
   - title: About
     url: about
 
