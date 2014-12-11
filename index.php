@@ -1,1 +1,0 @@
-/Volumes/Dane/Projects/grav/grav-devtools/grav-clones/grav/index.php
