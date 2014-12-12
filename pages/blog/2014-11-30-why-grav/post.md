@@ -1,9 +1,8 @@
 ---
-title:  "Welcome to Grav"
-slug: welcome-to-grav
-date:   11/30/2014
+title: "Why Grav ?"
+date:   12/30/2014
 taxonomy:
-    tag: [theme, grav, installation]
+    tag: [theme, grav, installation, featured]
 image: swim.jpg
 ---
 #Notepad Formats and CSS features

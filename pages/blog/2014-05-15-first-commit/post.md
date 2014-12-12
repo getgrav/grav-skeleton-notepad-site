@@ -2,14 +2,9 @@
 title: First Commit
 slug: first-commit
 date:   11/30/2014
-description: "Its ON, baby"
-headline: "Let's Fire up the Engines"
-categories: personal
 taxonomy:
     tag: [theme, grav, installation]
 image: cover9.jpg
-imagecredit: spreadeffect.com
-imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 ---
 
 >&quot;The beginning is the most important part of the work.&quot;
@@ -20,11 +15,11 @@ I have been away from the blogging scene for quite a while now, suddenly today i
     tickets@hostgator.com
     10/11/10
     
-    to hmfaysal 
+    to rockettheme 
     Hello, 
     
     
-    I apologize, but I was forced to suspend the script "/home/hmfaysal/public_html/hmfaysal.com/index.php" as it was causing a high load on the server, and due to it affecting all of the other accounts on the system, I was forced to take immediate action for the health of the server.g 
+    I apologize, but I was forced to suspend the script "/home/rockettheme/public_html/rockettheme.com/index.php" as it was causing a high load on the server, and due to it affecting all of the other accounts on the system, I was forced to take immediate action for the health of the server.g 
     
     I did notice that this was a Wordpress installation, and would recommend that you enable caching for it.
     
@@ -36,6 +31,6 @@ I have been away from the blogging scene for quite a while now, suddenly today i
 But the game was changed when my site got hacked. Wordpress is notorious in getting hacked. The PHP code libraries are huge, and while Automattic tries to keep it relatively clean and bug free, bugs do persist among the thousands of lines of codes and every once in a while a bug gets discovered by the code breakers. If the bug can be exploited in some way to gain access of the site, the code breakers tend to do some serious damage. While I wasn’t been exclusively targeted by such individuals, I was part of a victimized group who used the same version of Wordpress, and all of our sites got defaced by some mass defacing software. Although it didn’t do serious damage, as I have daily off-site backup, I became dubious about the Wordpress platform.
 
 
-So, this time around, while I was still brainstorming for ideas and theme designs and what not, I decided to go back to Jekyll, or you may say, rather old school. Why not use plain static HTML files with some CSS styling and JS animations? Static sites are impossible to hack, as there are no codes needed to be run on the server. The only way a static site can be compromised if the code breakers have access to your FTP account. I have used Jekyll in the past during my college years. I was working as a Teaching Assistant in the Mathematics Dept, and I was supposed to post weekly course materials on the course website. The trouble was my Alma maters IT dept didn’t allow dynamic sites to run on the nodes, and I wasn’t going download the HTML files, edit them with Sublime text, and push them back onto the server every week. So I used Jekyll and GIT Version Control to do that for me. And it was so efficient that I would post materials daily instead of weekly. It was like love on first use. But Wordpress had lots of theme choices and for my personal site I decided to use Wordpress anyways disregarding the simpleness and speed static sites provided. After the takeover of my Wordpress powered blog happened, I turned to self written PHP sites and static sites completely. I have built a social network based on PHP for my peer group which is highly secure but when it comes down to speed it lags behind. So I built this site using Jekyll, a blog aware static site generator. I hope this site will perform as envisioned.
+So, this time around, while I was still brainstorming for ideas and theme designs and what not, I decided to go back to Grav, or you may say, rather old school. Why not use plain static HTML files with some CSS styling and JS animations? Static sites are impossible to hack, as there are no codes needed to be run on the server. The only way a static site can be compromised if the code breakers have access to your FTP account. I have used Grav in the past during my college years. I was working as a Teaching Assistant in the Mathematics Dept, and I was supposed to post weekly course materials on the course website. The trouble was my Alma maters IT dept didn’t allow dynamic sites to run on the nodes, and I wasn’t going download the HTML files, edit them with Sublime text, and push them back onto the server every week. So I used Grav and GIT Version Control to do that for me. And it was so efficient that I would post materials daily instead of weekly. It was like love on first use. But Wordpress had lots of theme choices and for my personal site I decided to use Wordpress anyways disregarding the simpleness and speed static sites provided. After the takeover of my Wordpress powered blog happened, I turned to self written PHP sites and static sites completely. I have built a social network based on PHP for my peer group which is highly secure but when it comes down to speed it lags behind. So I built this site using Grav, a blog aware static site generator. I hope this site will perform as envisioned.
 
 [^1]: This domain previously hosted a Wordpress blog.

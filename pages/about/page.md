@@ -1,55 +1,53 @@
 ---
-title: HOSSAIN MOHD FAYSAL
+title: ABOUT THE AUTHOR
 ---
 
-![Hossain Mohammad Faysal](hossain-faysal.jpg)
+![Authorl](author.jpg)
 
 
-My name is **Hossain Mohd. Faysal**, and this is my personal blog.  
+Porta  **Author**, cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus..  
 
-I am an PhD candidate in *Electrical Engineering* at the [School of Engineering and Applied Science](http://www.seas.upenn.edu/) at **University of Pennsylvania**. I am licensed as a Professional Engineer (P.E) to practice in the states of Texas, Massachusetts and California. I double majored in EECS and Mathematics during my undergraduate life at [Massachusetts Institute of Technology](http://www.mit.edu/), and currently focusing on Electrical Engineering for my post-graduate studies.
+Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod.
 
-At some point in the not-terribly-distant future, I hope to found a self-sustaining collective of clever people, for fun, profit(?), and the promotion of human life in the universe. This might wind up in Qatar, Bangladesh, Scandinavia, the Massachusetts Bay Area, the SF Bay Area, Japan, Germany, or the dustbin of overly idealistic plans. (Yes, I have a special bin for overly idealistic plans. In my district they can't be recycled with residential mixed paper.) The most challenging aspect of this concept is to curtail unproductive competition with other people who will inevitably have the same idea. (Some sort of cooperative federation...) I'm presently looking for people who might be interested in being a part of such an organization.
+Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Cum sociis natoque porttitor et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor.
+Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Sed posuere consectetur est at lobortis. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Anyways, for now I'm just working toward changing the face of Electrical Engineering forever. Not that I necessarily expect to succeed, but it's something to strive for, and it's a fun problem to work on.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla.
 
 
->Entrepreneur
+>Lorem
 >
->Designer
+>Ipsum
 >
->Engineer
+>Nullam
 >
->Inventor
+>Morbi
 
-I
-make
-stuff.
+Nullam id dolor id nibh ultricies vehicula ut id elit
 
 
-*Beautiful, practical, meaningful stuff.*
+*Praesent commodo cursus magna, vel scelerisque nisl consectetur et.*
 
 
-I make what I love.
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
 
-*I love what I do.*
-
-
-But over the years, I noticed that somehow, along the way, software designed to help us be creative, actually made us less creative. That's because we believe our best ideas emerge when we use pencils and paper.
-So I set out to build tools that work the way I do.
+*Cras justo odio, dapibus ac facilisis in, egestas eget quam..*
 
 
-Tools for the creative space — the 53 centimeters that magically link head, heart, and hand. Tools as simple as pencil and paper. Tools so essential, I  really can't imagine work without them.
+Vestibulum id ligula porta felis euismod semper. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Sed posuere consectetur est at lobortis.
 
 
-> For
+Etiam porta sem malesuada magna mollis euismod. Donec id elit non mi porta gravida at eget metus.
+
+
+> Curabitur
 >
-> the makers,
+> blandit,
 > 
-> the creators,
+> porttitor,
 > 
-> the discoverers,
+> nascetur,
 > 
-> the original thinkers,
+> laoreet rutrum faucibus,
 > 
-> ### *This is the space to create.* ###
+> ### *Donec sed odio dui.* ###

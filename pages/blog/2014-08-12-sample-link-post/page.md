@@ -4,7 +4,7 @@ slug: sample-link-post
 description: "Example and code for using link posts."
 date: 08/12/2014
 taxonomy:
-    tag: [sample post, link post]
+    tag: [sample post, link post, featured]
 comments: true
 link: http://getgrav.org
 ---

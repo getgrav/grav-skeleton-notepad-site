@@ -18,7 +18,5 @@ feed:
     limit: 10
 
 pagination: true
-
-cover: shore.jpg
 ---
 
