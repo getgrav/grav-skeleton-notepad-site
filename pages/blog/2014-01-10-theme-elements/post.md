@@ -29,7 +29,7 @@ or with numbers!
 
 ## LINKS
 
-Want to link to a source? No problem. If you put the url in this format, like `[http://www.rockettheme.com](http://www.rockettheme.com)` - it'll automatically be linked up like [http://www.rockettheme.com](http://www.rockettheme.com). But if you want to customize your anchor text, you can do that too! Here's a link to the [my website](http://www.rockettheme.com "RocketTheme Website"). Neat.
+Want to link to a source? No problem. If you put the url in this format, like `[http://getgrav.org/](http://getgrav.org/)` - it'll automatically be linked up like [http://getgrav.org/](http://getgrav.org/). But if you want to customize your anchor text, you can do that too! Here's a link to the [my website](http://getgrav.org/ "Grav Website"). Neat.
 
 ## WHAT ABOUT IMAGES? ##
 
@@ -115,4 +115,4 @@ Throw 4 or more dashes down on any new line and you've got yourself a fancy new 
 
 ----
 
-That should be enough to get you started. Have fun - and let me know what you think [rockettheme](https://www.rockettheme.com) :)
+That should be enough to get you started. Have fun - and let us know what you think [@getgrav](https://twitter.com/getgrav).
