@@ -2,7 +2,7 @@
 title: "Why Grav ?"
 date:   12/30/2014
 taxonomy:
-    tag: [theme, grav, installation, featured]
+    tag: [theme, grav, featured]
 image: swim.jpg
 ---
 #Notepad Formats and CSS features
