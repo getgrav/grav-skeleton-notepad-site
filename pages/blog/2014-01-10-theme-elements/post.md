@@ -39,7 +39,7 @@ Images work too! And they are responsive! Already know the URL of the image you 
 ![Photo13](photo13.jpg)
 ![Photo19](photo19.jpg)
 
-Check out [this post]({{ site.url }}/articles/sample-post-images/) to learn about including images in your post.
+Check out [this post]({{ base_url_absolute }}/articles/sample-post-images/) to learn about including images in your post.
 
 ## AND VIDEOS? ##
 
